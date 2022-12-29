@@ -5,7 +5,7 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `박재형`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
-  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇ  <br>
+  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, 논문 작성  <br>
   
   `신병근`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
