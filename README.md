@@ -14,7 +14,7 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `윤예진`<br>
   - [블로그📑](https://velog.io/@a8002165)
-  - 목표🔥 : Effective Python, 머신러닝/딥러닝 기법 복습,  <br>
+  - 목표🔥 : Effective Python 끝까지, 머신러닝/딥러닝 기법 복습, .. <br>
   
   `이종목`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
