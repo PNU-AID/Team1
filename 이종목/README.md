@@ -1,0 +1,1 @@
+* Effective Python : Effective Python(2nd Edition) 및 파이썬 코딩의 기술 내용 정리
