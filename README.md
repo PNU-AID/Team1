@@ -17,8 +17,8 @@ __[Team]__ 👨🏻‍💻 <br>
   - 목표🔥 : Effective Python 끝까지, 머신러닝/딥러닝 기법 복습, .. <br>
   
   `이종목`<br>
-  - [블로그📑](https://faceyourfear.tistory.com/)
-  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇㄹ <br>
+  - [블로그📑](https://lijm1358.github.io/)
+  - 목표🔥 : 데이콘 / 캐글 순위권, Effective Python 제대로 공부, 논문 구현 2회 이상 <br>
   ___
 __[팀 목표]__ 💻  
 - 우선 가볍게 effective python 부터 시작  
