@@ -18,7 +18,11 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `이종목`<br>
   - [블로그📑](https://lijm1358.github.io/)
-  - 목표🔥 : 데이콘 / 캐글 순위권, Effective Python 제대로 공부, 논문 구현 2회 이상 <br>
+  - 목표🔥 : 데이콘 / 캐글 순위권, Effective Python 제대로 공부, 논문 구현 2회 이상 <br>  
+  
+  `김경현`<br>
+  - [블로그📑](https://kgang.tistory.com/)
+  - 목표🔥 : cs231n 회독/ 3D geometry 정독/ effective python/ TOEFL 공부/ 논문 작성 🙏🏻 <br>
   ___
 __[팀 목표]__ 💻  
 - 우선 가볍게 effective python 부터 시작  
