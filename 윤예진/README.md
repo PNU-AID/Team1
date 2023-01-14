@@ -4,6 +4,5 @@
   <li><a href="https://velog.io/@a8002165/Effective-Python-Lists-and-Dictionaries">List and Dictionaries</a></li>
   <li><a href="https://velog.io/@a8002165/Effective-Python-Functions">Functions</a></li>
   <li><a href="https://velog.io/@a8002165/Effective-Python-Comprehensions-and-Generators">Comprehensions and Generators</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://velog.io/@a8002165/Effective-Python-Classes-and-Interfaces">Classes and Interfaces</a></li>
 </ol>
