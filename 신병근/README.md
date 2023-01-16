@@ -6,3 +6,4 @@
 2 | List & Dictionary |[블로그 정리](https://teto-ri.tistory.com/entry/Effective-PYTHON-2%EC%9E%A5-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC) |
 3 | Function |[블로그 정리](https://teto-ri.tistory.com/entry/Effective-PYTHON-3%EC%9E%A5-%ED%95%A8%EC%88%98) |
 4 | Comprehension & Generator |[블로그 정리](https://teto-ri.tistory.com/entry/Effective-PYTHON-4%EC%9E%A5-%EC%BB%B4%ED%94%84%EB%A6%AC%ED%97%A8%EC%85%98%EA%B3%BC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0) |
+5 | Class & Interface |[블로그 정리](https://teto-ri.tistory.com/entry/Effective-PYTHON-5%EC%9E%A5-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) |
